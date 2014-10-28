@@ -4,7 +4,7 @@ require 'sinatra/base'
 class MyApp < Sinatra::Base
 
   get '/' do
-    'welcome to crabnebula'
+    'continuous deployment with codeship!'
   end
 
 end
