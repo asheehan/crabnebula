@@ -1,3 +1,3 @@
-require File.expand_path('../app.rb', __FILE__)
+require File.expand_path('../crabnebula.rb', __FILE__)
 use Rack::ShowExceptions
-run MyApp.new 
+run Crabnebula.new
