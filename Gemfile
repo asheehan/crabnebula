@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 gem 'sinatra-activerecord'
-gem 'pg'
+gem 'mysql'
 gem 'rake'
