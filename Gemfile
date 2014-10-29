@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 gem 'sinatra-activerecord'
 gem 'activerecord-mysql-adapter'
+gem 'mysql2'
 gem 'rake'

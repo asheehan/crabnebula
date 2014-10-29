@@ -24,6 +24,7 @@ GEM
     json (1.8.1)
     minitest (5.4.2)
     mysql (2.9.1-x86-mingw32)
+    mysql2 (0.3.16)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -46,5 +47,6 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-mysql-adapter
+  mysql2
   rake
   sinatra-activerecord
